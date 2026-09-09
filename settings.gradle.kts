@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CovySignIn Screen"
+rootProject.name = "CovyLechonDashboard"
 include(":app")
+ 
